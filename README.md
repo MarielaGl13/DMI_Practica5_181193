@@ -1,16 +1,15 @@
-# dmi_practica5_181193
+# DMI_Practica5_181193
 
-A new Flutter project.
+[![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Ingeniería en Desarrollo y Gestión de Software
+## Mariela González López
+## 10A
+## Aplicación Flutter con widgets Stateless
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
