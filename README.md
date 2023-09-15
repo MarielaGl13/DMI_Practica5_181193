@@ -16,7 +16,7 @@
 &nbsp;
 |  Características |  Información |
 | :------------: | :------------: |
-| **Nombre**  |  **Practica 5.** *Aplicación Flutter con widgets statalees* |
+| **Nombre**  |  **Practica 5.**  |
 | **Descripción**  | Aplicación Flutter con Widgets Stataless  |
 |  **Fecha de Carga** | 15/09/23  |
 
