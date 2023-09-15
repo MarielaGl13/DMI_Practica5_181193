@@ -12,4 +12,24 @@
 ## 10A
 ## Aplicación Flutter con widgets Stateless
 
+&nbsp;
+&nbsp;
+|  Características |  Información |
+| :------------: | :------------: |
+| **Nombre**  |  **Practica 5.** *Aplicación Flutter con widgets statalees* |
+| **Descripción**  | plicación Flutter con widgets statalees  |
+|  **Fecha de Carga** | 15/09/23  |
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
 
