@@ -17,7 +17,7 @@
 |  Características |  Información |
 | :------------: | :------------: |
 | **Nombre**  |  **Practica 5.**  |
-| **Descripción**  | En esta practica se realizó la creación de una Aplicación Flutter con Widgets Stataless, <br> los cuales son son widgets estáticos que no cambian su estado durante el tiempo de la ejecución de la aplicación flutter, solo se actualizan cuando es inicializada.  |
+| **Descripción**  | En esta practica se realizó la creación de una Aplicación Flutter con Widgets Stataless, <br> los cuales son son widgets estáticos que no cambian su estado durante el tiempo de la ejecución de la aplicación flutter, <br>solo se actualizan cuando es inicializada.  |
 |  **Fecha de Carga** | 13/09/23  |
 
 &nbsp;
