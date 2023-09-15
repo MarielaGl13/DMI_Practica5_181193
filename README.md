@@ -17,7 +17,7 @@
 |  Características |  Información |
 | :------------: | :------------: |
 | **Nombre**  |  **Practica 5.**  |
-| **Descripción**  | Aplicación Flutter con Widgets Stataless  |
+| **Descripción**  | En esta practica se realizó la creación de una Aplicación Flutter con Widgets Stataless  |
 |  **Fecha de Carga** | 13/09/23  |
 
 &nbsp;
